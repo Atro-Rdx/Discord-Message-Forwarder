@@ -1,4 +1,4 @@
-  <h1 align="center">🚀 Discord Message Forwarder</h1>
+ <h1 align="center">🚀 Discord Message Forwarder</h1>
 
 <p align="center">
   <strong>Ultra‑fast, feature‑packed message forwarding with intelligent rate limiting, CDN uploads, watermarking, role mapping, and a live dashboard.</strong>
